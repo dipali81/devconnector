@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb://127.0.0.1:27017/mongosh?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.10.2",
-    "jwtSecret" :"mysecretoken"
+    "jwtSecret" :"mysecretoken",
+    "githubClientId" :"d839e530a67fe5bf8ab1",
+    "githubSecret" : "ca862dcf63eb9e54bab0d9da0c32bd8026f75994"
 }
